@@ -1,0 +1,71 @@
+body {
+    font-family: Roboto;
+    color: black;
+}
+
+a[href="./index.html"] 
+{
+    font-family: Raleway;
+    text-decoration: none;
+    color:black;
+    font-size: 26px;
+}
+
+.nav-links .nav-link {
+    color:black
+}
+.nav-links .nav-link:hover {
+    color: #2196F3
+}
+.nav-link {
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.footer-links .footer-link {
+    color: black
+}
+.footer-links .footer-link:hover {
+    color: #2196F3
+}
+.footer-link {
+    text-decoration: none;
+    font-size: 14px;
+}
+
+
+ul {
+    list-style: none;
+}
+
+.button-portfolio {
+    display: block;
+    border: none;
+    width: 121px;
+    height: 38px;
+    background-color: #F5F4FA;
+    font-size: 16px;
+    text-align: center;
+    line-height: 38px;
+    text-decoration: none;
+    color: black
+}
+
+.button-portfolio .button-portfolio:hover {
+    color: #2196F3;
+}
+.button-in-main {
+    display: block;
+    border: none;
+    width: 200px;
+    height: 50px;
+    background-color: #2196F3;
+    font-size: 16px;
+    text-align: center;
+    line-height: 50px;
+    text-decoration: none;
+    color: white 
+}
+.footer-link {
+font-style: normal;
+}
